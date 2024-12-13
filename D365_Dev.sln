@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1778
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D365Plugins", "ClassLibrary3\D365Plugins.csproj", "{1213B7C7-9307-45D7-802B-B50E04C0950A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelDrivenApp", "ClassLibrary3\ModelDrivenApp.csproj", "{1213B7C7-9307-45D7-802B-B50E04C0950A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
